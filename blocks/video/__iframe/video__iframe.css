@@ -1,9 +1,5 @@
 .video__iframe {
-<<<<<<< HEAD
-    width: 515px;
-=======
-    width: 515px; 
->>>>>>> 4592d6c2586199c6bdf6fbaf27efb6ee602ee0d2
-    height: 316px;
-    border: 0;
+  width: 515px;
+  height: 316px;
+  border: 0;
 }

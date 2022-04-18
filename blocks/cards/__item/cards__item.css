@@ -1,6 +1,5 @@
 .cards__item {
     width: 240px;
-    padding-top: 60px;
     display: flex;
     flex-direction: column;
     text-align: center;

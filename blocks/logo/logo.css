@@ -2,3 +2,8 @@
     width: 228px;
     height: 32px;
   }
+
+  .logo:hover {
+    opacity: 0.6;
+    transition: opacity ease-in;
+  } 
